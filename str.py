@@ -1,0 +1,17 @@
+s="Ketan Patil"
+print("split------",end="")
+result=s.split()
+print(result)
+print("Replacing-----",end="")
+print(s.replace("Ketan","Sush"))
+print("No Indexing--------",end="")
+print(s.index("a"))
+print("Partition-------",end="")
+print(s.partition("an"))
+print("Upper--",s.upper())
+print("Lower--",s.lower())
+
+print("indexing------------")
+print(s[0:7])
+print(s[3:9])
+print(s[-1])

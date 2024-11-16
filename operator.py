@@ -1,0 +1,10 @@
+num1=int(input("Enter number 1:"))
+num2=int(input("Enter number 2:"))
+add=num1+num2
+print("Addition of two no =",add)
+sub=num1-num2
+print("Substraction of two no =",sub)
+mul=num1*num2
+print("Multipication of two no =",mul)
+div=num1/num2
+print("Division of two no =",div)
